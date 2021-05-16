@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-ec2-metadata",
+  "version": "1.0.0",
+  "description": "Node js script to read metadata and return value of a property",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karthik.alva",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.907.0",
+    "js-logger": "^1.6.1",
+    "node-fetch": "^2.6.1"
+  }
+}
